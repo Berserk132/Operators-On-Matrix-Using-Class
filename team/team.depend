@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539975565 source:c:\users\abdo\downloads\fci\oop\team\main.cpp
+	<bits/stdc++.h>
+	"Matrix.h"
+
+1539975698 source:c:\users\abdo\downloads\fci\oop\team\matrix.cpp
+	"Matrix.h"
+
+1539975565 c:\users\abdo\downloads\fci\oop\team\matrix.h
+	<bits/stdc++.h>
+
